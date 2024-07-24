@@ -1,6 +1,7 @@
-# Option Menu
+# Option Menu BW
 A renovated implementation of option menu feature
-
+Its Compumaxx's Code and translated from Spainish to English by me.
+<image src=
 ## Building
 
 Requirements (Windows):
