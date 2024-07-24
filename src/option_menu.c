@@ -106,10 +106,10 @@ const u8 localText_TextSpeedDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}C
 const u8 localText_BattleSceneDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Show or disable animations\nduring battles.");
 const u8 localText_BattleStyleDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Configure the rules that apply in\ncombat.");
 const u8 localText_SoundDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Set the sound to mono or stereo. ");
-const u8 localText_FrameDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Configura los bordes de los menús.");
-const u8 localText_ButtonModeDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Configura el comportamiento de los\nbotones L y R.");
-const u8 localText_ExitWithSave[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Guardando los cambios realizados...");
-const u8 localText_ExitWithoutSave[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Descartando los cambios realizados...");
+const u8 localText_FrameDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Configure menu borders.");
+const u8 localText_ButtonModeDescription[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Configures the behavior of the\nL and R buttons.");
+const u8 localText_ExitWithSave[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Saving the changes made...");
+const u8 localText_ExitWithoutSave[] = _("{COLOR 1}{HIGHLIGHT TRANSPARENT}Discarding the changes made...");
 
 static const u8 *const sOptionMenuItemsNames[MENUITEM_COUNT] =
 {
