@@ -5,7 +5,7 @@ A renovated implementation of option menu feature
 Its Compumaxx's Code and translated from Spainish to English by me.
 
 
-<image src= Option Menu_1721864152058.png><\image>
+<image src= Option Menu_1721864152058.png> <\image>
 ## Building
 
 Requirements (Windows):
