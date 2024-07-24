@@ -12405,6 +12405,7 @@ gSaveBlock2Ptr = 0x0300500C;
 gMenuRelated = 0x02039620;
 gFieldCallback = 0x03005020;
 Ptr_CB2_InitOptionMenu = 0x0806F534;
+cb2_newinitoptionmenu = 0x08A0000;
 Ptr_C2_NamingScreen = 0x0809D9DC;
 gNamingScreenData = 0x0203998C;
 gDummySpriteAffineAnimTable = 0x08231CFC;
