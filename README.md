@@ -7,16 +7,12 @@ A renovated implementation of option menu feature.
 
 <image src="Option Menu_1721864152058.png"> </image>
 ## Building
-
+### Same build as Main menu BW injection.
 Requirements (Windows):
 - DevkitPro/ARM (https://devkitpro.org/wiki/Getting_Started/devkitARM windows installer here)
-- Python (Atleast 3.4 https://www.python.org/downloads/)
 - Armips(Latest: https://buildbot.orphis.net/armips/)
-- Visual C++ runtime DLL https://www.microsoft.com/en-ca/download/details.aspx?id=48145
-
-Make sure you have an *environment variable* for "DEVKITARM", "python" and "armips". If not, create them.
-
-After cloning the repository, extract the "deps.zip" file. 
+- Given path variable to gbagfx and preproc of pokeemrrald/pokefirered/pokeruby
+Make sure you have an *environment variable* for "DEVKITARM", "armips" and "gbagfx" and "preproc. If not, create them.
 
 Next, place a clean FireRed US version 1.0 ROM and rename it to "BPRE0.gba".
 Modify the line ".org 0x08800000" in "main.s", to your free rom address.
