@@ -24,8 +24,5 @@ A new rom named "Option Menu.gba" should have appeared in the directory "build"
 
 
 Credits:
-- https://github.com/Touched project structure
-- https://github.com/pret string related tools and pokeemerald resources
-- Wobb
-- All contributors!
-
+- Compumax
+- Shiny-Miner (for providing and translation)
