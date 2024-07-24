@@ -17,8 +17,8 @@ export BINARY := $(BUILD)/linked.o
 export ARMIPS ?= armips
 export ROM_CODE := BPRE
 export LD := $(PREFIX)ld
-export PREPROC := deps/deps/pokeruby/tools/preproc/preproc$(EXE)
-export GFX := tools/gbagfx/gbagfx$(EXE)
+export PREPROC := preproc
+export GFX := gbagfx
 export CHARMAP := charmap.txt
 export ASFLAGS := -mthumb
 
