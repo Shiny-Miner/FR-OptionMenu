@@ -448,6 +448,7 @@ struct SaveBlock2
     /*0xA0*/ struct Time lastBerryTreeUpdate;
     /*0xA8*/ u32 field_A8; // Written to, but never read.
     /*0xAC*/ u32 encryptionKey;
+    /*0x???*/ u16 optionsRButtonMode : 3;
     /*0xB0*/ struct PlayersApprentice playerApprentice;
     /*0xDC*/ struct Apprentice apprentices[4]; // From record mixing.
     /*0x1EC*/ struct BerryCrush berryCrush;

@@ -70,6 +70,7 @@ static void SetDescription(u8 selection);
 void CB2_OptionMenu(void);
 bool8 LoadOptionMenuPalette(void);
 void LoadOptionMenuItemNames(void);
+void OptionMenu_PickSwitchCancel(void);
 
 // EWRAM vars
 u8 sArrowPressed = FALSE;
