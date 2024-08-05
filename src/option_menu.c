@@ -67,6 +67,9 @@ static void DrawFrame(void);
 static void OptionMenu_ClearWindow(u8 option);
 static void ShowDescription(const u8 *text);
 static void SetDescription(u8 selection);
+void CB2_OptionMenu(void);
+bool8 LoadOptionMenuPalette(void);
+void LoadOptionMenuItemNames(void);
 
 // EWRAM vars
 u8 sArrowPressed = FALSE;
